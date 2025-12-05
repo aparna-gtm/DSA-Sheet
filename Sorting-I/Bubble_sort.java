@@ -1,8 +1,8 @@
 import java.util.*;
 
-public class Bubble_sort {
+class Bubble_sort {
     public static void main(String[] args) {
-        System.out.println("Hello World");
+       
         int[] nums = { 6, 5, 4, 3, 2, 1 };
 
         for (int i = nums.length; i >= 0; i--) {
