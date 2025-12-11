@@ -1,6 +1,6 @@
 package Arrays;
 
-public class Solution {
+public class Leetcode_189 {
     public void rotate(int[] nums, int k) {
 
         int n=nums.length;

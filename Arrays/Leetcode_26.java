@@ -1,6 +1,6 @@
 package Arrays;
 
-class Solution {
+class Leetcode_26 {
     public int removeDuplicates(int[] nums) {
         int k=0;
         int si=0;
