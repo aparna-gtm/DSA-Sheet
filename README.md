@@ -18,9 +18,6 @@ I solve each problem in **Java**, and maintain clean folders, notes, and complex
 ## **🛠️ Language Used**
 - **Java**  
   Beginner-friendly Java code with clear logic and minimal extra libraries.
-
----
-
 ---
 
 ## **🚀 Goal of This Repository**
