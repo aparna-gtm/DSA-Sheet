@@ -1,4 +1,4 @@
-class Solution {
+class Merge_sort {
 
     void mergeSort(int arr[], int l, int r) {
         // code here

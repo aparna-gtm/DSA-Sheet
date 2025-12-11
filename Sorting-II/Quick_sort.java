@@ -1,4 +1,4 @@
-class Solution {
+class Quick_sort {
     public void quickSort(int[] arr, int low, int high) {
         // code here
         quickS(arr,low,high);
